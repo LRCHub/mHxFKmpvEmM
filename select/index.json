@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "祭りのあと",
+  "base_artist": "桑田　佳祐",
+  "createdAt": "2025-12-22T16:47:06.882783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "祭りのあと",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/01_祭りのあと_GLAY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "祭りのあと",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/02_祭りのあと_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "祭りのあと",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/03_祭りのあと_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "祭りのあと",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/04_祭りのあと_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "祭りのあと",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/05_祭りのあと_中島_美嘉.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "祭りのあと (Keisuke Kuwata)",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/06_祭りのあと_(Keisuke_Kuwata)_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "祭りのあと - Matsuri no Ato",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/07_祭りのあと_-_Matsuri_no_Ato_Keisuke_Kuwata.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祭りのあと",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_01_祭りのあと_桑田_佳祐.txt"
+    }
+  ]
+}
